@@ -1,0 +1,26 @@
+{
+  "privacyURL": "https://financemtp.com/privacy",
+  "termsURL": "https://financemtp.com/terms",
+  "appURL": "https://financemtp.com",
+  "contactEmail": "support@financemtp.com",
+  "githubURL": "https://github.com/khantminlwin333/MTP",
+  "socialLinks": {
+    "twitter": "https://twitter.com/yourusername",
+    "instagram": "https://instagram.com/yourusername",
+    "facebook": "https://facebook.com/yourpage",
+    "linkedin": "https://linkedin.com/company/yourcompany"
+  },
+  "appInfo": {
+    "name": "MTP Finance Tracker",
+    "version": "1.0.1",
+    "description": "Master your money, one pixel at a time.",
+    "tagline": "Master your money, one pixel at a time."
+  },
+  "features": {
+    "receiptScanning": true,
+    "budgetTracking": true,
+    "invoiceCreation": true,
+    "financialManager": true,
+    "proFeaturesAvailable": true
+  }
+}

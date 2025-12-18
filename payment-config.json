@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2024-01-01",
+  "methods": {
+    "kpay": {
+      "name": "KBZ Pay",
+      "accountName": "U Kyaw Kyaw",
+      "accountNumber": "09xxxxxxxxx",
+      "color": "#0055aa",
+      "instructions": "Send payment to the account number above and provide the last 4-6 digits of your transaction."
+    },
+    "wave": {
+      "name": "Wave Money",
+      "accountName": "U Kyaw Kyaw",
+      "accountNumber": "09xxxxxxxxx",
+      "color": "#ffe500",
+      "instructions": "Send payment to the account number above and provide the last 4-6 digits of your transaction."
+    },
+    "aya": {
+      "name": "AYA Pay",
+      "accountName": "U Kyaw Kyaw",
+      "accountNumber": "09xxxxxxxxx",
+      "color": "#cc0000",
+      "instructions": "Send payment to the account number above and provide the last 4-6 digits of your transaction."
+    },
+    "cb": {
+      "name": "CB Pay",
+      "accountName": "U Kyaw Kyaw",
+      "accountNumber": "09xxxxxxxxx",
+      "color": "#009933",
+      "instructions": "Send payment to the account number above and provide the last 4-6 digits of your transaction."
+    }
+  },
+  "plans": {
+    "monthly": {
+      "name": "Monthly Plan",
+      "price": "15,000 MMK",
+      "priceNumber": 15000,
+      "duration": "1 month",
+      "apiPrice": "2.99",
+      "expiryDays": 30,
+      "features": [
+        "Ad-free experience",
+        "Unlimited receipt scanning",
+        "Budget tracking",
+        "Invoice creation"
+      ]
+    },
+    "yearly": {
+      "name": "Yearly Plan",
+      "price": "120,000 MMK",
+      "priceNumber": 120000,
+      "duration": "12 months",
+      "apiPrice": "20.00",
+      "expiryDays": 365,
+      "savings": "Save 33%",
+      "features": [
+        "Everything in Monthly Plan",
+        "Priority support",
+        "Advanced analytics",
+        "Backup & sync"
+      ]
+    },
+    "lifetime": {
+      "name": "Lifetime Plan",
+      "price": "300,000 MMK",
+      "priceNumber": 300000,
+      "duration": "Lifetime",
+      "apiPrice": "50.00",
+      "expiryDays": 9999,
+      "savings": "Best value",
+      "features": [
+        "Everything in Yearly Plan",
+        "Lifetime updates",
+        "Dedicated account manager",
+        "Early access to features"
+      ]
+    }
+  },
+  "instructions": {
+    "general": "1. Select your preferred payment method\n2. Send the payment to the provided account\n3. Enter the last 4-6 digits of your transaction ID\n4. Wait for verification (usually within 24 hours)",
+    "verificationTime": "Payment verification usually takes 6-24 hours during business days.",
+    "contactSupport": "If you face any issues, contact support@financemtp.com"
+  },
+  "status": "active"
+}

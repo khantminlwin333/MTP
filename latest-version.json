@@ -1,0 +1,29 @@
+{
+  "appName": "MTP Finance Tracker",
+  "latestVersion": "1.0.1",
+  "ios": {
+    "rateUrl": "https://apps.apple.com/app/com.khantminlwin.MTP",
+    "shareUrl": "https://apps.apple.com/app/com.khantminlwin.MTP"
+  },
+  "android": {
+    "rateUrl": "https://play.google.com/store/apps/details?id=com.khantminlwin.MTP",
+    "shareUrl": "https://play.google.com/store/apps/details?id=com.khantminlwin.MTP"
+  },
+  "fallback": {
+    "rateUrl": "https://apps.apple.com/app/com.khantminlwin.MTP",
+    "shareUrl": "https://apps.apple.com/app/com.khantminlwin.MTP"
+  },
+  "share": {
+    "message": "Check out MTP Finance Tracker - a great app for tracking your income and expenses!"
+  },
+  "links": {
+    "privacyURL": "https://financemtp.com/privacy",
+    "termsURL": "https://financemtp.com/terms",
+    "appURL": "https://financemtp.com",
+    "contactEmail": "support@financemtp.com"
+  },
+  "appInfo": {
+    "tagline": "Master your money, one pixel at a time.",
+    "description": "Comprehensive finance tracking with receipt scanning, budgeting, and invoice creation."
+  }
+}

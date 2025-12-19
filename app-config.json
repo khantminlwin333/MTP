@@ -1,4 +1,5 @@
 {
+  "latestVersion" : "1.0.1",
   "privacyURL": "https://financemtp.com/privacy",
   "termsURL": "https://financemtp.com/terms",
   "appURL": "https://financemtp.com",
@@ -16,6 +17,9 @@
     "description": "Master your money, one pixel at a time.",
     "tagline": "Master your money, one pixel at a time."
   },
+  "android" : {
+    "rateUrl" : "https://play.google.com/store/apps/details?id=com.khantminlwin.MTP&pcampaignid=web_share"
+  }
   "features": {
     "receiptScanning": true,
     "budgetTracking": true,

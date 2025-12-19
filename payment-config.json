@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "lastUpdated": "2024-01-01",
+  "version": "1.0.1",
+  "lastUpdated": "2025-01-01",
   "methods": {
     "kpay": {
       "name": "KBZ Pay",
@@ -41,7 +41,7 @@
       "expiryDays": 30,
       "features": [
         "Ad-free experience",
-        "5/Per receipt scanning",
+        "5/Per receipt scanning"
       ]
     },
     "yearly": {
@@ -54,10 +54,10 @@
       "savings": "Save 18%",
       "features": [
         "Everything in Monthly Plan",
-        "Priority support",
+        "Priority support"
       ]
-    },
-   
+    }
+  },
   "instructions": {
     "general": "1. Select your preferred payment method\n2. Send the payment to the provided account\n3. Enter the last 4-6 digits of your transaction ID\n4. Wait for verification (usually within 24 hours)",
     "verificationTime": "Payment verification usually takes 6-24 hours during business days.",
